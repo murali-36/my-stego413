@@ -19,14 +19,14 @@ OpenCV (opencv-python)
 
 Setup Instructions:
 Clone the Repository:
-git clone [Your Repository Link]
+git clone " https://github.com/murali-36/my-stego413.git "
 
 Install Dependencies:
 pip install opencv-python 
 
 Usage Instructions:
 Prepare Your Image:
-Place your image (e.g., mypic.jpg) in the same directory as the script.
+Place your image ("image413.png") in the same directory as the script.
 Run the Script:
 Encode the Message:
 
