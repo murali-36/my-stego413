@@ -1,11 +1,16 @@
 Project Overview:
+
 Conceal and retrieve secret messages within images using Python’s OpenCV library.
 Uses the Least Significant Bit (LSB) technique to hide text within the image’s pixels, maintaining visual integrity.
 
 Features:
-Message Embedding: Hide secret messages within image pixels.
-Password Protection: Secure the hidden message with a passcode.
-Message Extraction: Retrieve the hidden message by providing the correct passcode.
+
+Message Embedding:
+Hide secret messages within image pixels.
+Password Protection:
+Secure the hidden message with a passcode.
+Message Extraction:
+Retrieve the hidden message by providing the correct passcode.
 
 Prerequisites:
 Python Version: 3.13.2 or higher
@@ -24,9 +29,12 @@ Prepare Your Image:
 Place your image (e.g., mypic.jpg) in the same directory as the script.
 Run the Script:
 Encode the Message:
+
 Enter the secret message and a passcode.
 The image with the hidden message is saved as encryptedImage.jpg.
+
 Decode the Message:
+
 Enter the correct passcode to retrieve and display the hidden message.
 
 
